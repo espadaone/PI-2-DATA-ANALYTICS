@@ -41,6 +41,17 @@ de intereses positivos o rendimiento.
  Sobretodo se marca la linea de Tendencia y medias moviles para poder determinas si son convenientes al ver sus diferentes progresos y se pueden hacer recomendaciones
  de ambas como lo son Microsoft y Apple.
  
+ Recomendaciones:
+  information tech
+  internet companies
+  popular consumer goods
+
+  Una media móvil puede utilizarse para proporcionar apoyo en una tendencia alcista, 
+  la media puede actuar como un terreno base o «soporte». En una tendencia descendente, una media móvil 
+  puede actuar como resistencia, o «techo».
+  
+  Fuentes
+ 
  Esta informacion de recomendaciones esta en base a los estudios tomados de SP500 que siempre se estan actualizando
  https://www.spglobal.com/spdji/es/indices/equity/sp-500/#overview
  Asimismo tambien se basa de la siguiente pagina que se llama Investing que tambien se puede buscar por nombre o etiqueta o sigla como lo es MSFT
