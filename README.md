@@ -28,7 +28,7 @@ de intereses positivos o rendimiento.
  
  Procedimiento 
   Desde el archivo Notebook de Python
- # Transportamos la informacion gracias a la API de Yahoo Finances con herramientas de python la informacion de 
+ # Transportamos la informacion gracias a la API de Yahoo Finances con herramientas de python 
  la pagina https://en.wikipedia.org/wiki/List_of_S%26P_500_companies
  despues de cierto trabajo de datos se los exporto a los csv o archivos excel que veran en la carpeta DATASETS.
  *Luego se trabajo con los datos enviandolos a POWER BI para importarlos y realizar graficas y metricas que nos indican:
